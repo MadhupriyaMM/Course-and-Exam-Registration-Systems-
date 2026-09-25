@@ -1,9 +1,8 @@
-# Course-Reservation-and-Exam-registration-systems
+ Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No:212225040219
+# Name:MADHUPRIYA.M
+# Date:1.9.26
 
 # AIM:
 To develop the Course Reservation and Exam Registration System using Star UML
